@@ -1,0 +1,36 @@
+# .kmkeep File Instructions
+# Purpose: Define files/directories to PRESERVE when resetting the mirror. Rules are compatible with .gitignore syntax.
+# Scenario: When executing "kmdo mirror init" to reset the mirror, all files/directories NOT matched by this file will be deleted.
+# Warning: Read the rules carefully before modifying this file. Accidentally removing critical configurations may cause mirror failure.
+
+# Rule Syntax (identical to .gitignore):
+# 1. Lines starting with # are comments and will be ignored.
+# 2. Lines starting with /: Match only files/directories in the mirror root (e.g., /credentials/ matches only the credentials dir in root).
+# 3. Lines ending with /: Match only directories (e.g., logs/ matches all directories named logs, including those in subdirectories).
+# 4. Lines starting with *: Wildcard matching (e.g., *.env matches all .env files, *.log matches all log files).
+# 5. Lines starting with !: Negation rule (overrides previous matches; e.g., *.log followed by !important.log preserves important.log).
+# 6. Empty lines: Will be ignored.
+
+# ===================== REQUIRED CORE CONFIGURATIONS (DO NOT DELETE/MODIFY BELOW) =====================
+# Git core directory: Deletion will cause the mirror to lose Git version control functionality.
+/.git/
+
+# .kmkeep file itself: Preserve rule configurations to avoid losing custom rules during next reset.
+/.kmkeep
+
+# ===================== CUSTOM PRESERVATION RULE EXAMPLES (Add/Modify as Needed) =====================
+# Example 1: Preserve the .env environment variable file in the root directory
+# /.env
+
+# Example 2: Preserve all .pem certificate files (including those in subdirectories)
+# *.pem
+
+# Example 3: Preserve the entire credentials directory in the root (including subfiles)
+# /credentials/
+
+# Example 4: Exclude all .log files except important.log
+# *.log
+# !important.log
+
+# Example 5: Preserve a specific file in a subdirectory
+# /components/custom-config.json
