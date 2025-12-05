@@ -1,4 +1,16 @@
 {
-    "timestamp": "2025-12-06T04:15:23.237595887+08:00",
-    "components": []
+    "timestamp": "2025-12-06T04:18:41.432290782+08:00",
+    "components": [
+        {
+            "name": "kmup",
+            "owner": "kumo",
+            "description": "kmup is a git repository for kumo.",
+            "email": "kumo-pub@outlook.com",
+            "source": "https://github.com/kumose/kmup.git",
+            "home": "https://github.com/kumose/kmup",
+            "docs": "https://pub.kumose.cc/kmdo",
+            "hide": false,
+            "deprecate": false
+        }
+    ]
 }
