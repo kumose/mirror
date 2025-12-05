@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-06T04:18:41.432290782+08:00",
+    "timestamp": "2025-12-06T04:22:08.655615822+08:00",
     "components": [
         {
             "name": "kmup",
@@ -9,6 +9,17 @@
             "source": "https://github.com/kumose/kmup.git",
             "home": "https://github.com/kumose/kmup",
             "docs": "https://pub.kumose.cc/kmdo",
+            "hide": false,
+            "deprecate": false
+        },
+        {
+            "name": "kmpkg",
+            "owner": "kumo",
+            "description": "c++ package manager for kumo develop.",
+            "email": "kumo-pub@outlook.com",
+            "source": "https://github.com/kumose/kmpkg.git",
+            "home": "https://github.com/kumose/kmpkg",
+            "docs": "https://pub.kumose.cc/kmpkg/",
             "hide": false,
             "deprecate": false
         }
