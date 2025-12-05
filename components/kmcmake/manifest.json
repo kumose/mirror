@@ -1,0 +1,16 @@
+{
+  "name": "kmcmake",
+  "version": "0.1.15",
+  "create": "2025-12-01T19:09:58Z",
+  "url": "https://github.com/kumose/kmcmake/releases/tag/v0.1.15",
+  "assets": [
+    {
+      "url": "https://github.com/kumose/kmcmake/releases/download/v0.1.15/kmcmake-0.1.15-any-any.tar.gz",
+      "digest": "sha256:3fc68a2814138fd07e041397de804d80776534512405248987d59608522e7216",
+      "name": "kmcmake-0.1.15-any-any.tar.gz",
+      "platform": "any",
+      "arch": "any",
+      "size": 46226
+    }
+  ]
+}
