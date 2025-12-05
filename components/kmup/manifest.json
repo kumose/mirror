@@ -1,0 +1,16 @@
+{
+  "name": "kmup",
+  "version": "1.30.15",
+  "create": "2025-12-02T15:11:06Z",
+  "url": "https://github.com/kumose/kmup/releases/tag/v1.30.15",
+  "assets": [
+    {
+      "url": "https://github.com/kumose/kmup/releases/download/v1.30.15/kmup-1.30.15-linux-amd64.tar.gz",
+      "digest": "sha256:6c070464b2aa1a9cd396ca32047bf34e033b0249d7d8f76fedd2e72c781122e3",
+      "name": "kmup-1.30.15-linux-amd64.tar.gz",
+      "platform": "linux",
+      "arch": "amd64",
+      "size": 44800679
+    }
+  ]
+}
