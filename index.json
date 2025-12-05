@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-06T04:25:56.12484968+08:00",
+    "timestamp": "2025-12-06T04:27:23.668888141+08:00",
     "components": [
         {
             "name": "kmup",
@@ -31,6 +31,17 @@
             "source": "https://github.com/kumose/kmcmake.git",
             "home": "https://github.com/kumose/kmcmake",
             "docs": "https://pub.kumose.cc/kmcmake/",
+            "hide": false,
+            "deprecate": false
+        },
+        {
+            "name": "kmdo",
+            "owner": "kumo",
+            "description": "kmdo for kumo tools.",
+            "email": "kumo-pub@outlook.com",
+            "source": "https://github.com/kumose/kmdo.git",
+            "home": "https://github.com/kumose/kmdo",
+            "docs": "https://pub.kumose.cc/kmdo/",
             "hide": false,
             "deprecate": false
         }
