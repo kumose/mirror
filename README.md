@@ -1,0 +1,2 @@
+# mirror
+kmdo root mirror
