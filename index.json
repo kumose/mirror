@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-06T04:27:23.668888141+08:00",
+    "timestamp": "2025-12-06T09:09:49.134283622+08:00",
     "components": [
         {
             "name": "kmup",
@@ -42,6 +42,17 @@
             "source": "https://github.com/kumose/kmdo.git",
             "home": "https://github.com/kumose/kmdo",
             "docs": "https://pub.kumose.cc/kmdo/",
+            "hide": false,
+            "deprecate": false
+        },
+        {
+            "name": "etcd",
+            "owner": "kumo",
+            "description": "etcd.",
+            "email": "kumo-pub@outlook.com",
+            "source": "https://github.com/etcd-io/etcd.git",
+            "home": "https://github.com/etcd-io/etcd",
+            "docs": "https://github.com/etcd-io/etcd",
             "hide": false,
             "deprecate": false
         }
