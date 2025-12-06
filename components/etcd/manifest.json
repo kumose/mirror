@@ -1,0 +1,24 @@
+{
+  "name": "etcd",
+  "version": "3.5.24",
+  "create": "2025-10-21T18:14:11Z",
+  "url": "https://github.com/etcd-io/etcd/releases/tag/v3.5.24",
+  "assets": [
+    {
+      "url": "https://github.com/etcd-io/etcd/releases/download/v3.5.24/etcd-v3.5.24-linux-amd64.tar.gz",
+      "digest": "sha256:042497e2ddcee06f22e5d486d81f58affa26b53ee423e2a6aaca3d3ea98c8191",
+      "name": "etcd-v3.5.24-linux-amd64.tar.gz",
+      "platform": "linux",
+      "arch": "amd64",
+      "size": 22338398
+    },
+    {
+      "url": "https://github.com/etcd-io/etcd/releases/download/v3.5.24/etcd-v3.5.24-linux-arm64.tar.gz",
+      "digest": "sha256:efc01f6b3fbef0f000cb53bcad4845c116d7fdd8769ca39d9c40d2fe4d2e509f",
+      "name": "etcd-v3.5.24-linux-arm64.tar.gz",
+      "platform": "linux",
+      "arch": "arm64",
+      "size": 20392986
+    }
+  ]
+}
