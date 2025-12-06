@@ -1,6 +1,12 @@
 {
     "versions": [
         {
+            "timestamp": "2025-12-06T09:17:47+08:00",
+            "git-tree": "9acbf79e304cf652838a71af6c10dea34f1a1a1e",
+            "version": "3.6.6",
+            "channel": "nightly"
+        },
+        {
             "timestamp": "2025-12-06T09:17:32+08:00",
             "git-tree": "01806061f614a4257c617939687dc4bb89619270",
             "version": "3.5.25",

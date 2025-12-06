@@ -1,24 +1,24 @@
 {
   "name": "etcd",
-  "version": "3.5.25",
-  "create": "2025-11-12T05:01:27Z",
-  "url": "https://github.com/etcd-io/etcd/releases/tag/v3.5.25",
+  "version": "3.6.6",
+  "create": "2025-11-12T05:13:30Z",
+  "url": "https://github.com/etcd-io/etcd/releases/tag/v3.6.6",
   "assets": [
     {
-      "url": "https://github.com/etcd-io/etcd/releases/download/v3.5.25/etcd-v3.5.25-linux-amd64.tar.gz",
-      "digest": "sha256:168af82b59772e1811a9af7b358d42f5c6df44e0d9767afb006ecf12c4bbd607",
-      "name": "etcd-v3.5.25-linux-amd64.tar.gz",
+      "url": "https://github.com/etcd-io/etcd/releases/download/v3.6.6/etcd-v3.6.6-linux-amd64.tar.gz",
+      "digest": "sha256:887afaa4a99f22d802ccdfbe65730a5e79aa5c9ce2c8799c67e9d804c50ecedb",
+      "name": "etcd-v3.6.6-linux-amd64.tar.gz",
       "platform": "linux",
       "arch": "amd64",
-      "size": 22337715
+      "size": 24309317
     },
     {
-      "url": "https://github.com/etcd-io/etcd/releases/download/v3.5.25/etcd-v3.5.25-linux-arm64.tar.gz",
-      "digest": "sha256:419dce0b679df31cc45201ef2449b7a6a48e9d241af01741957c9ac86a35badc",
-      "name": "etcd-v3.5.25-linux-arm64.tar.gz",
+      "url": "https://github.com/etcd-io/etcd/releases/download/v3.6.6/etcd-v3.6.6-linux-arm64.tar.gz",
+      "digest": "sha256:8a15f5427c111ff4692753682374970fb68878401d946c2c28bdad6857db652f",
+      "name": "etcd-v3.6.6-linux-arm64.tar.gz",
       "platform": "linux",
       "arch": "arm64",
-      "size": 20391900
+      "size": 22450400
     }
   ]
 }
