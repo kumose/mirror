@@ -1,5 +1,10 @@
 {
-    "version": "1.0.0",
-    "timestamp": "2025-12-06T04:15:23.237595887+08:00",
-    "defaults": {}
+    "version": "1.0.1",
+    "timestamp": "2025-12-06T09:18:56.875889367+08:00",
+    "defaults": {
+        "etcd": {
+            "baseline": "3.5.25",
+            "channel": "nightly"
+        }
+    }
 }
