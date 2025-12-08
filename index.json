@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-08T10:06:08.206349167+08:00",
+    "timestamp": "2025-12-08T10:44:07.497283594+08:00",
     "components": [
         {
             "name": "kmup",
@@ -75,6 +75,17 @@
             "source": "https://github.com/Kitware/CMake.git",
             "home": "https://github.com/Kitware/CMake",
             "docs": "https://cmake.org/documentation",
+            "hide": false,
+            "deprecate": false
+        },
+        {
+            "name": "prometheus",
+            "owner": "prometheus",
+            "description": "The Prometheus monitoring system and time series database.",
+            "email": "kumo-pub@outlook.com",
+            "source": "https://github.com/prometheus/prometheus.git",
+            "home": "https://prometheus.io/",
+            "docs": "https://prometheus.io/docs/",
             "hide": false,
             "deprecate": false
         }
