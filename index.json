@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-06T09:09:49.134283622+08:00",
+    "timestamp": "2025-12-08T08:57:03.607974589+08:00",
     "components": [
         {
             "name": "kmup",
@@ -53,6 +53,17 @@
             "source": "https://github.com/etcd-io/etcd.git",
             "home": "https://github.com/etcd-io/etcd",
             "docs": "https://github.com/etcd-io/etcd",
+            "hide": false,
+            "deprecate": false
+        },
+        {
+            "name": "kmpkgtool",
+            "owner": "kumo",
+            "description": "c++ package manager kmpkg cmd tool kumo develop.",
+            "email": "kumo-pub@outlook.com",
+            "source": "https://github.com/kumose/kmpkg.git",
+            "home": "https://github.com/kumose/kmpkg-tool",
+            "docs": "https://pub.kumose.cc/kmpkg/",
             "hide": false,
             "deprecate": false
         }
