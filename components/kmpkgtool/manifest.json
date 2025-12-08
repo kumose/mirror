@@ -1,0 +1,16 @@
+{
+  "name": "kmpkgtool",
+  "version": "0.6.3",
+  "create": "2025-12-08T01:40:11Z",
+  "url": "https://github.com/kumose/kmpkg-tool/releases/tag/v0.6.3",
+  "assets": [
+    {
+      "url": "https://github.com/kumose/kmpkg-tool/releases/download/v0.6.3/kmpkgtool-0.6.3-linux-amd64.tar.gz",
+      "digest": "sha256:815201e6749d42bba02f2172d2155da398d91ca9a4941810b0da1c5fa0f8fa44",
+      "name": "kmpkgtool-0.6.3-linux-amd64.tar.gz",
+      "platform": "linux",
+      "arch": "amd64",
+      "size": 3572102
+    }
+  ]
+}
