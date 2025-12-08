@@ -70,7 +70,7 @@
         {
             "name": "cmake",
             "owner": "Kitware",
-            "description": "c++ package manager kmpkg cmd tool kumo develop.",
+            "description": "CMake, the cross-platform, open-source build system.",
             "email": "kumo-pub@outlook.com",
             "source": "https://github.com/Kitware/CMake.git",
             "home": "https://github.com/Kitware/CMake",
