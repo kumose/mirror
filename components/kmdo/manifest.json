@@ -1,112 +1,48 @@
 {
   "name": "kmdo",
-  "version": "0.6.24",
-  "create": "2025-12-04T08:45:16Z",
-  "url": "https://github.com/kumose/kmdo/releases/tag/v0.6.24",
+  "version": "0.6.25",
+  "create": "2025-12-08T15:06:12Z",
+  "url": "https://github.com/kumose/kmdo/releases/tag/v0.6.25",
   "assets": [
     {
-      "url": "https://github.com/kumose/kmdo/releases/download/v0.6.24/kmdo-0.6.24-1-aarch64.pkg.tar.zst",
-      "digest": "sha256:3c3ec90fbb005226cd4bb9d8b35790157eb7afdb3cf3a6f578aae0f19e6aa71a",
-      "name": "kmdo-0.6.24-1-aarch64.pkg.tar.zst",
-      "platform": "linux",
-      "arch": "arm64",
-      "size": 21196608
-    },
-    {
-      "url": "https://github.com/kumose/kmdo/releases/download/v0.6.24/kmdo-0.6.24-1-x86_64.pkg.tar.zst",
-      "digest": "sha256:eb77d0911bfd58410083c6c5807675e574eccaaff65402b805a7de2c3ed19f16",
-      "name": "kmdo-0.6.24-1-x86_64.pkg.tar.zst",
-      "platform": "linux",
-      "arch": "amd64",
-      "size": 23637591
-    },
-    {
-      "url": "https://github.com/kumose/kmdo/releases/download/v0.6.24/kmdo-0.6.24-1.aarch64.rpm",
-      "digest": "sha256:9ed52375f2e2079169c068eb2a8f4c1b603ca232dd51ee1088539c45c02c00a7",
-      "name": "kmdo-0.6.24-1.aarch64.rpm",
-      "platform": "linux",
-      "arch": "arm64",
-      "size": 22949210
-    },
-    {
-      "url": "https://github.com/kumose/kmdo/releases/download/v0.6.24/kmdo-0.6.24-1.x86_64.rpm",
-      "digest": "sha256:5679495417177ca8ed7650fcf9f2759c80b69ac9c6a80a3efcf87da49f7a1972",
-      "name": "kmdo-0.6.24-1.x86_64.rpm",
-      "platform": "linux",
-      "arch": "amd64",
-      "size": 25608870
-    },
-    {
-      "url": "https://github.com/kumose/kmdo/releases/download/v0.6.24/kmdo-0.6.24-darwin-all.tar.gz",
-      "digest": "sha256:7f1151d3693564e965266a3509f9131ba8bea09685991d3fc539ca7703596ed9",
-      "name": "kmdo-0.6.24-darwin-all.tar.gz",
+      "url": "https://github.com/kumose/kmdo/releases/download/v0.6.25/kmdo-0.6.25-darwin-all.tar.gz",
+      "digest": "sha256:65cb1e78b697805c5ce1cd52e5ab7fdc7156f36ff6f4b04648ccaff3415f3c16",
+      "name": "kmdo-0.6.25-darwin-all.tar.gz",
       "platform": "darwin",
       "arch": "any",
-      "size": 48558786
+      "size": 48831134
     },
     {
-      "url": "https://github.com/kumose/kmdo/releases/download/v0.6.24/kmdo-0.6.24-darwin-arm64.tar.gz",
-      "digest": "sha256:83030d622afe4f6166bbda3ac4845c63989462e15e6868746f98759eeb025474",
-      "name": "kmdo-0.6.24-darwin-arm64.tar.gz",
+      "url": "https://github.com/kumose/kmdo/releases/download/v0.6.25/kmdo-0.6.25-darwin-arm64.tar.gz",
+      "digest": "sha256:8c4c4d4798c13a3d8898aa1bdc932a512d1cdf31410de991f995c89050b83128",
+      "name": "kmdo-0.6.25-darwin-arm64.tar.gz",
       "platform": "darwin",
       "arch": "arm64",
-      "size": 23398051
+      "size": 23530113
     },
     {
-      "url": "https://github.com/kumose/kmdo/releases/download/v0.6.24/kmdo-0.6.24-darwin-x86_64.tar.gz",
-      "digest": "sha256:92dc6494433cd359a95aeb0a4941222a274a36e7e34c5a716777c27c5b5384b9",
-      "name": "kmdo-0.6.24-darwin-x86_64.tar.gz",
+      "url": "https://github.com/kumose/kmdo/releases/download/v0.6.25/kmdo-0.6.25-darwin-x86_64.tar.gz",
+      "digest": "sha256:c3766180e84b14fa1d59e6010c20d7de8ff76386a4ec74145e5a0f62e53ac9da",
+      "name": "kmdo-0.6.25-darwin-x86_64.tar.gz",
       "platform": "darwin",
       "arch": "amd64",
-      "size": 25181637
+      "size": 25323459
     },
     {
-      "url": "https://github.com/kumose/kmdo/releases/download/v0.6.24/kmdo-0.6.24-linux-arm64.tar.gz",
-      "digest": "sha256:b07889e5bbd9c13bdfc5791325dae3259b7622206c6bd2c9ad14c3f9467bec81",
-      "name": "kmdo-0.6.24-linux-arm64.tar.gz",
+      "url": "https://github.com/kumose/kmdo/releases/download/v0.6.25/kmdo-0.6.25-linux-arm64.tar.gz",
+      "digest": "sha256:c00afd157111954c41d7c4bcdf8523f40c1f54c4e4c4eb38196e1666f78a4b83",
+      "name": "kmdo-0.6.25-linux-arm64.tar.gz",
       "platform": "linux",
       "arch": "arm64",
-      "size": 22127044
+      "size": 22246896
     },
     {
-      "url": "https://github.com/kumose/kmdo/releases/download/v0.6.24/kmdo-0.6.24-linux-x86_64.tar.gz",
-      "digest": "sha256:ffd85fde2a47594a57293174b2a49ddd8ca4573087b71734d072fe0dbed1a067",
-      "name": "kmdo-0.6.24-linux-x86_64.tar.gz",
+      "url": "https://github.com/kumose/kmdo/releases/download/v0.6.25/kmdo-0.6.25-linux-x86_64.tar.gz",
+      "digest": "sha256:e9076186f8184283d4ab9b1cea7ec517385dbd203ebc1711d9fe84c303b6c911",
+      "name": "kmdo-0.6.25-linux-x86_64.tar.gz",
       "platform": "linux",
       "arch": "amd64",
-      "size": 24514768
-    },
-    {
-      "url": "https://github.com/kumose/kmdo/releases/download/v0.6.24/kmdo_0.6.24_aarch64.apk",
-      "digest": "sha256:0443b4b5acd4e4f5ef68be419bb917d15c872cf7e5861d1f75a84a4cbe47063b",
-      "name": "kmdo_0.6.24_aarch64.apk",
-      "platform": "linux",
-      "arch": "arm64",
-      "size": 22999564
-    },
-    {
-      "url": "https://github.com/kumose/kmdo/releases/download/v0.6.24/kmdo_0.6.24_amd64.deb",
-      "digest": "sha256:af5adb195157d160d87cf68e1b75df396c15f76298f7e3cd7d255f8130706ff2",
-      "name": "kmdo_0.6.24_amd64.deb",
-      "platform": "linux",
-      "arch": "amd64",
-      "size": 24626124
-    },
-    {
-      "url": "https://github.com/kumose/kmdo/releases/download/v0.6.24/kmdo_0.6.24_arm64.deb",
-      "digest": "sha256:7561341b6b63713256771a62b8bdb8000c340958e42263b544eb003b98c2c326",
-      "name": "kmdo_0.6.24_arm64.deb",
-      "platform": "linux",
-      "arch": "arm64",
-      "size": 22227704
-    },
-    {
-      "url": "https://github.com/kumose/kmdo/releases/download/v0.6.24/kmdo_0.6.24_x86_64.apk",
-      "digest": "sha256:a4423e25632fa49f2821cfe427c1b00843a8deaa19c8627238640a04772cd661",
-      "name": "kmdo_0.6.24_x86_64.apk",
-      "platform": "linux",
-      "arch": "amd64",
-      "size": 25583962
+      "size": 24649350
     }
   ]
 }
