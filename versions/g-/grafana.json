@@ -1,3 +1,10 @@
 {
-    "versions": null
+    "versions": [
+        {
+            "timestamp": "2025-12-08T14:39:49+08:00",
+            "git-tree": "62e2000bf498f3552544bc0f964be6edb12a4db1",
+            "version": "12.2.2",
+            "channel": "nightly"
+        }
+    ]
 }

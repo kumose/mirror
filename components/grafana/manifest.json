@@ -1,0 +1,40 @@
+{
+  "name": "grafana",
+  "version": "12.2.2",
+  "create": "2025-12-08T06:07:07Z",
+  "url": "https://grafana.com/grafana/download/12.2.2",
+  "assets": [
+    {
+      "url": "https://dl.grafana.com/grafana-enterprise/release/12.2.2/grafana-enterprise_12.2.2_19496034263_linux_amd64.tar.gz",
+      "digest": "SHA256:24504c1c7efe78257abb84bbee85a653cd9231ee0cdaf0a9b77378cca2817c1e",
+      "name": "grafana-enterprise_12.2.2_19496034263_linux_amd64.tar.gz",
+      "platform": "linux",
+      "arch": "amd64",
+      "size": 200896729
+    },
+    {
+      "url": "https://dl.grafana.com/grafana-enterprise/release/12.2.2/grafana-enterprise_12.2.2_19496034263_linux_arm64.tar.gz",
+      "digest": "SHA256:32ee4fcfc1d165aa7b1b34bb1f0831b1fe8b0c7038c682f059eef1996f93deee",
+      "name": "grafana-enterprise_12.2.2_19496034263_linux_arm64.tar.gz",
+      "platform": "linux",
+      "arch": "arm64",
+      "size": 190879021
+    },
+    {
+      "url": "https://dl.grafana.com/grafana-enterprise/release/12.2.2/grafana-enterprise_12.2.2_19496034263_darwin_amd64.tar.gz",
+      "digest": "SHA256: 35c6af46d5eba86b58df831d4cfa51a3b88d8bd4216d0526c5e8182281fd2072",
+      "name": "grafana-enterprise_12.2.2_19496034263_darwin_amd64.tar.gz",
+      "platform": "darwin",
+      "arch": "amd64",
+      "size": 292258434
+    },
+    {
+      "url": "https://dl.grafana.com/grafana-enterprise/release/12.2.2/grafana-enterprise_12.2.2_19496034263_darwin_arm64.tar.gz",
+      "digest": "SHA256:c12b91a5f47f814911e647d585413fdf13c3ac2afaacd697e15eda8070d631b0",
+      "name": "grafana-enterprise_12.2.2_19496034263_darwin_arm64.tar.gz",
+      "platform": "darwin",
+      "arch": "arm64",
+      "size": 281478933
+    }
+  ]
+}
