@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-08T08:57:03.607974589+08:00",
+    "timestamp": "2025-12-08T10:06:08.206349167+08:00",
     "components": [
         {
             "name": "kmup",
@@ -64,6 +64,17 @@
             "source": "https://github.com/kumose/kmpkg.git",
             "home": "https://github.com/kumose/kmpkg-tool",
             "docs": "https://pub.kumose.cc/kmpkg/",
+            "hide": false,
+            "deprecate": false
+        },
+        {
+            "name": "cmake",
+            "owner": "Kitware",
+            "description": "c++ package manager kmpkg cmd tool kumo develop.",
+            "email": "kumo-pub@outlook.com",
+            "source": "https://github.com/Kitware/CMake.git",
+            "home": "https://github.com/Kitware/CMake",
+            "docs": "https://cmake.org/documentation",
             "hide": false,
             "deprecate": false
         }
