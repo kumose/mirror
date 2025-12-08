@@ -1,0 +1,24 @@
+{
+  "name": "cmake",
+  "version": "3.31.10",
+  "create": "2025-11-17T21:25:43Z",
+  "url": "https://github.com/Kitware/CMake/releases/tag/v3.31.10",
+  "assets": [
+    {
+      "url": "https://github.com/Kitware/CMake/releases/download/v3.31.10/cmake-3.31.10-linux-aarch64.tar.gz",
+      "digest": "sha256:a343c6294f770742904e6a6792e0956b5ff8212abfb63cac99237de2e210fa0f",
+      "name": "cmake-3.31.10-linux-aarch64.tar.gz",
+      "platform": "linux",
+      "arch": "arm64",
+      "size": 56317563
+    },
+    {
+      "url": "https://github.com/Kitware/CMake/releases/download/v3.31.10/cmake-3.31.10-linux-x86_64.tar.gz",
+      "digest": "sha256:3cb3dd247b6a1de2d0f4b20c6fd4326c9024e894cebc9dc8699758887e566ca7",
+      "name": "cmake-3.31.10-linux-x86_64.tar.gz",
+      "platform": "linux",
+      "arch": "amd64",
+      "size": 55010952
+    }
+  ]
+}
