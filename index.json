@@ -1,5 +1,5 @@
 {
-    "timestamp": "2025-12-08T10:44:07.497283594+08:00",
+    "timestamp": "2025-12-08T14:22:08.177622398+08:00",
     "components": [
         {
             "name": "kmup",
@@ -86,6 +86,17 @@
             "source": "https://github.com/prometheus/prometheus.git",
             "home": "https://prometheus.io/",
             "docs": "https://prometheus.io/docs/",
+            "hide": false,
+            "deprecate": false
+        },
+        {
+            "name": "grafana",
+            "owner": "grafana",
+            "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+            "email": "kumo-pub@outlook.com",
+            "source": "https://github.com/grafana/grafana",
+            "home": "https://prometheus.io/",
+            "docs": "https://grafana.com/docs/",
             "hide": false,
             "deprecate": false
         }
