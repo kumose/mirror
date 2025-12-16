@@ -1,16 +1,16 @@
 {
   "name": "kmpkg",
-  "version": "0.1.0",
-  "create": "2025-12-02T00:14:50Z",
-  "url": "https://github.com/kumose/kmpkg/releases/tag/v0.1.0",
+  "version": "0.6.1",
+  "create": "2025-12-16T07:00:55Z",
+  "url": "https://github.com/kumose/kmpkg/releases/tag/v0.6.1",
   "assets": [
     {
-      "url": "https://github.com/kumose/kmpkg/releases/download/v0.1.0/kmpkg-0.1.0-linux-amd64.tar.gz",
-      "digest": "sha256:5fa8f99baa0791e259b34c2802d592d957fa7d686e2d8ef16b6a462901486277",
-      "name": "kmpkg-0.1.0-linux-amd64.tar.gz",
-      "platform": "linux",
-      "arch": "amd64",
-      "size": 2901420
+      "url": "https://github.com/kumose/kmpkg/releases/download/v0.6.1/kmpkg-0.6.1-any-any.tar.gz",
+      "digest": "sha256:a51b058d3cf323bec1db8224610f49c34a6a4f8904981a28a1989d04622e06d7",
+      "name": "kmpkg-0.6.1-any-any.tar.gz",
+      "platform": "any",
+      "arch": "any",
+      "size": 250849
     }
   ]
 }
